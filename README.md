@@ -1,2 +1,2 @@
-# flylog-sdk-js
-FlyLog SDK for JavaScript
+# FlyLog SDK for JavaScript
+Provides JavaScript API for application development with FlyLog framework.
